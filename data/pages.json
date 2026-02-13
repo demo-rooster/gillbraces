@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Gill Orthodontics",
+      "title": "Hentscher-Johnson Orthodontics",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -19,9 +19,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/74211947_happy_teenage_girl_wearing_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/74211947_happy_teenage_girl_wearing_braces.webp",
-        "alt": "Smiling patients at Gill Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/99326519_Professional_dentist_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/99326519_Professional_dentist_office.webp",
+        "alt": "Smiling patients at Hentscher-Johnson Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -29,9 +29,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Home Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -42,10 +40,13 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Gill Orthodontics",
+      "title": "Welcome to Hentscher-Johnson Orthodontics",
       "paragraphs": [
         {
-          "text": "Helping you achieve a beautiful smile — At Gill Orthodontics we believe every smile tells a story and we're here to help your smile shine with confidence. We are a family-oriented orthodontic practice serving patients ages six and up in a warm, welcoming environment. Using modern techniques and personalized treatment plans, we make orthodontic care affordable and comfortable for the whole family. Call to schedule a consultation with Dr. Jared Gill to learn how orthodontics can help you achieve a healthy, beautiful smile."
+          "text": "At Hentscher-Johnson Orthodontics our team puts patients first. We deliver personalized orthodontic care for children, teens, and adults using modern digital tools and an approachable, family-friendly office atmosphere."
+        },
+        {
+          "text": "We combine advanced treatment planning, flexible financing options, and attentive patient support so your orthodontic journey is comfortable and straightforward. Call (618) 400-0900 or request a consultation online to get started."
         }
       ],
       "component_options": {
@@ -59,44 +60,15 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "Why Choose Us",
+      "title": "Why Choose HJO",
       "items": [
         {
-          "title": "Family-Focused Care",
+          "title": "Patient-First Care",
           "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.webp",
-            "alt": "Family-friendly orthodontic office",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
-          },
-          "text": "We care for children and adults (ages six and up) in a warm, welcoming office where every patient feels respected.",
-          "add_button": false,
-          "button": {
-            "button_type": "button",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Personalized Plans",
-          "icon": "file-chart-tooth",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/248439538_Asian_young_dentists_are_explaining_about_the_dent.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/248439538_Asian_young_dentists_are_explaining_about_the_dent.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+            "alt": "Family-oriented orthodontic care",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -106,10 +78,10 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "Dr. Gill listens, then designs treatment plans that fit your lifestyle, goals, and budget.",
+          "text": "We treat every patient with care and clear communication so families feel comfortable at every visit.",
           "add_button": false,
           "button": {
-            "button_type": "button",
+            "button_type": "nuxt_link",
             "path": "",
             "hash": "",
             "href": "",
@@ -118,12 +90,12 @@
           }
         },
         {
-          "title": "Modern Options",
+          "title": "Advanced Technology",
           "icon": "laptop-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
+            "alt": "Digital orthodontic scanning and planning",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -133,10 +105,10 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "We offer braces, Damon braces, and clear aligners with up-to-date clinical techniques and technology.",
+          "text": "We use digital scans and modern planning tools to make treatment more predictable and comfortable.",
           "add_button": false,
           "button": {
-            "button_type": "button",
+            "button_type": "nuxt_link",
             "path": "",
             "hash": "",
             "href": "",
@@ -145,12 +117,12 @@
           }
         },
         {
-          "title": "Easy Scheduling",
+          "title": "Flexible Financing",
           "icon": "schedule-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/356046302_Couple_and_little_daughter_sit_on_sofa_using_pc_wa.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/356046302_Couple_and_little_daughter_sit_on_sofa_using_pc_wa.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.webp",
+            "alt": "Affordable orthodontic payment options",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -160,10 +132,10 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "Streamlined consultations and an online appointment-request make it simple to get started.",
+          "text": "Affordable plans and clear payment options help make great orthodontic care easy to access.",
           "add_button": false,
           "button": {
-            "button_type": "button",
+            "button_type": "nuxt_link",
             "path": "",
             "hash": "",
             "href": "",
@@ -200,29 +172,27 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Jared Gill",
+      "title": "Meet Dr. Jodi Hentscher-Johnson",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Jared Gill is an experienced orthodontist who enjoys creating confident smiles and guiding patients through every step of their treatment. He trained in dentistry and orthodontics and continues to pursue ongoing education to bring current, effective treatment options to his patients. Dr. Gill maintains memberships with the American Association of Orthodontists and the North Dakota Dental Association and participates in local study clubs to collaborate with other dental professionals. He lives in the Fargo area with his wife Katie and their four children and enjoys family time, reading, fishing, and community involvement."
+          "text": "Meet Dr. Jodi Hentscher-Johnson, a board certified orthodontist who has been transforming smiles since 2012. Passionate about blending art and science, she loves building genuine connections with patients and making every visit enjoyable. Dr. Jodi is dedicated to using the latest technology and techniques to ensure your treatment is more comfortable, efficient, and effective. Outside the office, she supports local women’s organizations and chambers of commerce and enjoys time with her family."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/46130e70-1425-4743-a5ee-730fdf138b79_lg.jpg",
+        "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-jodi-headshot-1024x1024.jpg",
         "webp": "",
-        "alt": "Dr. Jared Gill headshot",
+        "alt": "Dr. Jodi Hentscher-Johnson headshot",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "file",
@@ -233,8 +203,8 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Gill",
-            "aria_label": "Learn about Dr. Gill",
+            "label": "Meet Dr. Jodi",
+            "aria_label": "Learn about our orthodontist",
             "href": "",
             "path": "/about",
             "hash": "#meet-the-doctor",
@@ -267,11 +237,77 @@
       "preserve_image": true
     },
     {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Taylor Little",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Meet Dr. Taylor Little, an orthodontist passionate about providing personalized, accessible, and enjoyable care for every patient. She focuses on evidence-based treatment and advanced technology, with special interests in laser gingivectomy, TADs, and care for patients with special needs. Dr. Little is committed to continual learning and delivering confident smiles that last a lifetime."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-little-1024x1024.jpg",
+        "webp": "",
+        "alt": "Dr. Taylor Little headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Taylor",
+            "aria_label": "Learn about Dr. Taylor Little",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-dr-little",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
       "acf_fc_layout": "block_masonary_grid",
       "title": "Explore Our Treatments",
       "paragraphs": [
         {
-          "text": "We offer braces, clear aligners including Invisalign<sup>®</sup>, Damon braces, and custom retainers to meet a wide range of orthodontic needs."
+          "text": "We offer a full range of orthodontic services, including braces, clear aligners, retainers, and early treatment to help patients of all ages achieve healthy, confident smiles."
         }
       ],
       "button": {
@@ -292,29 +328,9 @@
       "items": [
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
-            "alt": "Patient holding clear aligners",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "title": "Invisalign<sup>®</sup>",
-          "path": "/treatments",
-          "hash": "#invisalign"
-        },
-        {
-          "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-            "alt": "Patient with traditional braces",
+            "alt": "Patient holding clear aligner",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -322,33 +338,11 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Braces",
+          "title": "Clear Aligners",
           "path": "/treatments",
-          "hash": "#braces"
-        },
-        {
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
-            "alt": "Custom orthodontic retainer",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Retainers"
-            }
-          },
-          "title": "Retainers",
-          "path": "/treatments",
-          "hash": "#retainers"
+          "hash": "#clear-aligners"
         },
         {
           "image": {
@@ -362,13 +356,47 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
+            "image_selection_hints": null
           },
-          "title": "Damon Braces",
+          "title": "All Ages",
           "path": "/treatments",
-          "hash": "#damon-braces"
+          "hash": "#all-ages"
+        },
+        {
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
+            "alt": "Custom retainers",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "title": "Retainers",
+          "path": "/treatments",
+          "hash": "#retainers"
+        },
+        {
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+            "alt": "Traditional metal braces",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "title": "Braces",
+          "path": "/treatments",
+          "hash": "#braces"
         }
       ],
       "component_options": {
@@ -382,31 +410,44 @@
     },
     {
       "acf_fc_layout": "multi_item_testimonial",
-      "title": "What Our Patients Are Saying",
+      "title": "What Our Patients Say",
       "review_text": "Read More Reviews",
       "links": [
         {
-          "href": "https://search.google.com/local/reviews?placeid=ChIJFcZIXRfMyFIRmYIu7Xb4144&q=Gill+Orthodontics",
+          "href": "https://www.facebook.com/HentscherJohnsonOrtho",
           "icon": "facebook",
+          "color": "primary"
+        },
+        {
+          "href": "https://www.instagram.com/hjortho/",
+          "icon": "instagram",
           "color": "primary"
         }
       ],
       "testimonials": [
         {
-          "author": "Stephanie Holscher",
-          "testimonial": "The staff is very friendly and helpful. Dr. Gill is very nice and very willing to work with you so you both feel good about the treatment. It's a very professional office but you can tell people are having fun too."
+          "author": "Client Name",
+          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
         },
         {
-          "author": "Christa S",
-          "testimonial": "Dr. Gill is so patient with my young and nervous daughter. So appreciative for his gentle care."
+          "author": "Client Name",
+          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
         },
         {
-          "author": "Melany Mendoza",
-          "testimonial": "I had an amazing experience at Gill Orthodontist's office! From the moment I walked in, the staff made me feel welcome and comfortable... My smile has never looked better, and I'm so grateful for the exceptional care I received. Highly recommend!"
+          "author": "Client Name",
+          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
         },
         {
-          "author": "Allan Larson",
-          "testimonial": "I just got my braces off today, and I couldn't be happier with the results! I'm so thankful to the whole team for making this journey such a positive one!"
+          "author": "Client Name",
+          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+        },
+        {
+          "author": "Client Name",
+          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+        },
+        {
+          "author": "Client Name",
+          "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
         }
       ],
       "component_options": {
@@ -417,16 +458,20 @@
       },
       "has_background": true,
       "background": "bg1",
-      "linear_gradient": ""
+      "linear_gradient": "linear-gradient(0deg, #EFF6F8 0%, rgba(239, 246, 248, 0) 100%)"
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Us",
+      "title": "Follow Us on Social",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
-          "href": "https://search.google.com/local/reviews?placeid=ChIJFcZIXRfMyFIRmYIu7Xb4144&q=Gill+Orthodontics",
+          "href": "https://www.instagram.com/hjortho/",
+          "icon": "instagram"
+        },
+        {
+          "href": "https://www.facebook.com/HentscherJohnsonOrtho",
           "icon": "facebook"
         }
       ],
@@ -455,8 +500,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/119902799_Young_people_with_gadgets_hanging_out.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/119902799_Young_people_with_gadgets_hanging_out.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
         "alt": "Parents with kids relaxing in front of home",
         "aria_hidden": false,
         "bgColor": "",
@@ -465,9 +510,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Community"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": false,
@@ -505,8 +548,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.webp",
         "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
@@ -515,9 +558,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -526,15 +567,15 @@
     },
     {
       "seo": {
-        "page_title": "Home - Gill Orthodontics",
-        "page_description": "Gill Orthodontics in Fargo, ND offers family-focused orthodontic care including braces, Invisalign®, Damon braces, and retainers. Call (701) 232-1500 to book.",
-        "page_keywords": "orthodontics, Fargo, braces, Invisalign, Damon braces, retainers, Dr. Jared Gill",
+        "page_title": "Home - Hentscher-Johnson Orthodontics",
+        "page_description": "Hentscher-Johnson Orthodontics provides patient-first orthodontic care with braces, clear aligners, and retainers. Call (618) 400-0900 to schedule a consult.",
+        "page_keywords": "Hentscher-Johnson Orthodontics, orthodontics, braces, clear aligners, retainers, orthodontist",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Gill Orthodontics",
-            "description": "Gill Orthodontics in Fargo, ND offers family-focused orthodontic care including braces, Invisalign®, Damon braces, and retainers. Call (701) 232-1500 to book.",
-            "image": "https://gillbraces.com/images/slides/slide-1.jpg"
+            "title": "Home - Hentscher-Johnson Orthodontics",
+            "description": "Hentscher-Johnson Orthodontics provides patient-first orthodontic care with braces, clear aligners, and retainers. Call (618) 400-0900 to schedule a consult.",
+            "image": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-jpg,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg"
           }
         }
       }
@@ -562,7 +603,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.webp",
-        "alt": "Gill Orthodontics team smiling in the office lobby",
+        "alt": "Orthodontic team smiling in a bright office lobby",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -584,16 +625,16 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "At Gill Orthodontics, we are committed to making orthodontic care positive and affordable for the whole family. Every patient is treated with respect and clear communication from their first visit."
+          "text": "At HJO, we’re all about fun. We create a positive, stress-free atmosphere where our energetic team puts patients first and makes every visit welcoming for kids and adults alike."
         },
         {
-          "text": "Dr. Jared Gill and our team take the time to listen, answer questions, and design treatment plans that fit your lifestyle and budget. We offer both traditional braces and clear aligners to meet individual needs."
+          "text": "We use the latest technology, like 3D printing for in-house aligners and CBCT scans for ultra-precise imaging, to keep treatment efficient, accurate, and comfortable for every patient."
         },
         {
-          "text": "Our approach centers on thoughtful, conservative treatment planning supported by modern technology and continuing education so you receive contemporary, predictable care."
+          "text": "We love giving back to our community through events, school visits, and local sponsorships. Our flexible payment plans and no-interest financing options are designed to make orthodontic care more accessible."
         },
         {
-          "text": "We maintain a welcoming, family-oriented practice with flexible scheduling and a focus on comfort, so patients of all ages can feel confident about their orthodontic experience."
+          "text": "By combining modern tools, proven techniques, and a patient-first approach, we help patients of all ages reach confident, healthy smiles with care that fits their lives."
         }
       ],
       "component_options": {
@@ -616,7 +657,7 @@
       "image": {
         "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/46130e70-1425-4743-a5ee-730fdf138b79_lg.jpg",
         "webp": "",
-        "alt": "Dr. Jared Gill headshot",
+        "alt": "Dr. Jared Gill smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -633,16 +674,16 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "I really enjoy practicing orthodontics. Creating smiles and watching patients gain confidence is deeply rewarding. I began working in orthodontics in the 11th grade making retainers and later worked in orthodontic labs while I completed my education."
+              "text": "I really enjoy practicing orthodontics. I find a lot of satisfaction in creating smiles, and enjoy showing my patients how much progress they’re making and how their efforts are paying off. Seeing their happiness at the end of treatment never grows old."
             },
             {
-              "text": "My clinical approach combines science, art, and hands-on care. I stay active in continuing education and local study groups to bring the latest, evidence-based techniques to our practice and to help shorten treatment times when appropriate."
+              "text": "The combination of science, art and hands-on care required in orthodontics is very rewarding. I started working for my own orthodontist in 11th grade and later worked in orthodontic labs to pay my way through college, which solidified my commitment to the specialty."
             }
           ],
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/46130e70-1425-4743-a5ee-730fdf138b79_lg.jpg",
             "webp": "",
-            "alt": "Dr. Jared Gill smiling in his office",
+            "alt": "Dr. Jared Gill in clinical setting",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -657,16 +698,13 @@
           "header": "Education",
           "paragraphs": [
             {
-              "text": "Undergraduate degree from Utah State University. Doctorate of Dental Medicine from Case Western Reserve University in Cleveland. Orthodontic specialty training completed at St. Barnabas Hospital in New York, where I received specialty credentials in orthodontics."
-            },
-            {
-              "text": "I participate in professional meetings and seminars at the local, state, and national levels to keep current with evolving orthodontic techniques and technology."
+              "text": "Undergraduate degree – Utah State University. Doctorate of Dental Medicine – Case Western Reserve University, Cleveland. Orthodontic specialty – St. Barnabas Hospital, New York. I regularly attend orthodontic and dental meetings to stay current with the latest treatment options and technology."
             }
           ],
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/46130e70-1425-4743-a5ee-730fdf138b79_lg.jpg",
             "webp": "",
-            "alt": "Dr. Jared Gill in consultation",
+            "alt": "Education and continuing education",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -681,10 +719,7 @@
           "header": "Personal",
           "paragraphs": [
             {
-              "text": "I live in West Fargo with my wife Katie and our four children. When I am not caring for patients, I enjoy reading, fishing, gardening, biking, and playing video games with my kids."
-            },
-            {
-              "text": "I am active in my children’s schools, support local education efforts, and participate regularly in my church and community activities."
+              "text": "I live in West Fargo with my wife Katie and our four children. When I’m not working, you’ll find me reading, fishing, gardening, riding my bike, and playing video games with my kids. I’m active in my kids’ schools and participate regularly in my church."
             }
           ],
           "image": {
@@ -720,17 +755,36 @@
       "preserve_image": true
     },
     {
-      "acf_fc_layout": "block_grid",
-      "title": "Meet the Team",
-      "items": [
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Jodi Hentscher-Johnson",
+      "paragraphs": [],
+      "image": {
+        "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-jodi-headshot-1024x1024.jpg",
+        "webp": "",
+        "alt": "Dr. Jodi Hentscher-Johnson headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
         {
-          "name": "Dr. Jared Gill",
-          "position": "Orthodontist",
-          "bio": "Dr. Jared Gill leads our practice with a focus on thoughtful, conservative treatment and continuing education. He enjoys helping patients achieve confident smiles.",
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Meet Dr. Jodi Hentscher-Johnson, a board certified orthodontist transforming smiles since 2012. She blends art and science to deliver care that’s comfortable and effective, and she takes pride in building genuine connections with patients."
+            }
+          ],
           "image": {
-            "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/46130e70-1425-4743-a5ee-730fdf138b79_lg.jpg",
+            "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-jodi-headshot-1024x1024.jpg",
             "webp": "",
-            "alt": "Dr. Jared Gill",
+            "alt": "Dr. Jodi consulting with patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -742,9 +796,174 @@
           }
         },
         {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Jodi earned her dental and specialty training before becoming board certified. She focuses on modern techniques and technology to keep treatment comfortable and efficient."
+            }
+          ],
+          "image": {
+            "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-jodi-headshot-1024x1024.jpg",
+            "webp": "",
+            "alt": "Education and certifications",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "A proud Red Bud native, Dr. Jodi lives in Columbia with her family and two dogs. She enjoys spending time at the Lake of the Ozarks and cheering on St. Louis teams, and she is active in local women’s organizations and chambers of commerce."
+            }
+          ],
+          "image": {
+            "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-jodi-headshot-1024x1024.jpg",
+            "webp": "",
+            "alt": "Dr. Jodi at community event",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-the-doctor",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Taylor Little",
+      "paragraphs": [],
+      "image": {
+        "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-little-1024x1024.jpg",
+        "webp": "",
+        "alt": "Dr. Taylor Little headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Little is dedicated to personalized, accessible orthodontic care. She uses evidence-based treatment and advanced technology to create confident smiles while keeping patient comfort front of mind."
+            }
+          ],
+          "image": {
+            "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-little-1024x1024.jpg",
+            "webp": "",
+            "alt": "Dr. Little consulting with patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education & Specialties",
+          "paragraphs": [
+            {
+              "text": "Dr. Little pursues continuing education and has special interests in laser gingivectomy, TADs, and providing care for patients with special needs, using the latest tools and techniques to tailor treatment plans."
+            }
+          ],
+          "image": {
+            "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-little-1024x1024.jpg",
+            "webp": "",
+            "alt": "Clinical specialties",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Originally from the St. Louis area, Dr. Little enjoys nature, local coffee shops, cheering on her favorite teams, and spending time with her husband Jon and their corgi and cat."
+            }
+          ],
+          "image": {
+            "src": "https://hentscherjohnsonortho.com/wp-content/uploads/2026/01/hentscher-johnson-dr-little-1024x1024.jpg",
+            "webp": "",
+            "alt": "Dr. Little out of office",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-the-doctor",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "block_grid",
+      "title": "Meet the Team",
+      "items": [
+        {
           "name": "Shelli",
           "position": "Financial Coordinator",
-          "bio": "Financial coordinator helping patients with insurance and payment options.",
+          "bio": "Shelli manages financial questions and helps families find a payment plan that fits their budget.",
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/624fbdc1-fb46-45f9-90f5-a2fda594bed5_lg.jpg",
             "webp": "",
@@ -762,7 +981,7 @@
         {
           "name": "Sam",
           "position": "Scheduling Coordinator",
-          "bio": "Scheduling coordinator focused on creating convenient appointment times.",
+          "bio": "Sam keeps appointments running smoothly and helps new and returning patients find convenient times.",
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/d7909b0a-3554-458d-a3b3-4d5396b63587_lg.jpg",
             "webp": "",
@@ -780,9 +999,9 @@
         {
           "name": "Lynetta",
           "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator who guides patients through their care journey.",
+          "bio": "Lynetta guides families through treatment options and helps craft personalized plans for each patient.",
           "image": {
-            "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/a7583496-7146-4d9c-ae98-cb82a3b44d2e_lg.jpg",
+            "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/a7583496-714c-4d9c-ae98-cb82a3b44d2e_lg.jpg",
             "webp": "",
             "alt": "Lynetta, Treatment Coordinator",
             "aria_hidden": false,
@@ -798,7 +1017,7 @@
         {
           "name": "MaKenzie",
           "position": "Orthodontic Assistant",
-          "bio": "Orthodontic assistant providing chairside support and patient care.",
+          "bio": "MaKenzie assists during treatments and ensures patients are comfortable throughout their visits.",
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/005c1840-1d89-46a5-8f32-74a7b79ac0d4_lg.jpg",
             "webp": "",
@@ -816,9 +1035,9 @@
         {
           "name": "Jessie",
           "position": "Lab Technician",
-          "bio": "Lab technician responsible for appliance fabrication and lab work.",
+          "bio": "Jessie supports appliance fabrication and ensures lab work meets our high standards for fit and quality.",
           "image": {
-            "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/113ae28e-5443-448d-80a5-0d8e8d3c4957_lg.jpg",
+            "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/113ae28e-544c-448d-80a5-0d8e8d3c4957_lg.jpg",
             "webp": "",
             "alt": "Jessie, Lab Technician",
             "aria_hidden": false,
@@ -834,7 +1053,7 @@
         {
           "name": "Kris",
           "position": "Orthodontic Assistant",
-          "bio": "Orthodontic assistant working closely with patients during treatment.",
+          "bio": "Kris assists clinical procedures and helps patients feel at ease during appointments.",
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/98a011f5-a955-4dff-8e17-e9c86a34a53a_lg.jpg",
             "webp": "",
@@ -852,7 +1071,7 @@
         {
           "name": "Lisa",
           "position": "Orthodontic Assistant",
-          "bio": "Orthodontic assistant focused on patient comfort and care.",
+          "bio": "Lisa provides chairside support and patient education throughout treatment.",
           "image": {
             "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/cadf9c67-c24c-4857-8393-532c403dac1c_lg.jpg",
             "webp": "",
@@ -870,11 +1089,11 @@
         {
           "name": "Chelsea",
           "position": "Orthodontic Assistant",
-          "bio": "Orthodontic assistant and team member providing clinical support.",
+          "bio": "Chelsea supports clinical workflows and helps patients have comfortable, positive visits.",
           "image": {
-            "src": "https://c3-preview.prosites.com/258881/ed/PageMeetTheTeam/4015378c-1008-42f8-ba67-55bda1182280_lg.jpg",
+            "src": "https://c3-preview.prosites.com/258881/wy/images/Dr.%20Gill%20Meet%20The%20Team.jpg",
             "webp": "",
-            "alt": "Chelsea, Orthodontic Assistant",
+            "alt": "Gill Orthodontics team photo including Chelsea",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -895,20 +1114,20 @@
       "has_bio": true,
       "large_title": false,
       "center_title": false,
-      "background": "bg2",
+      "background": "bg1",
       "add_texture": false,
       "linear_gradient": "",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "single_image_slider",
-      "title": "Our Office",
+      "title": "Office Tour",
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://gillbraces.com/images/slides/slide-1.jpg",
+          "src": "https://www.gillbraces.com/images/slides/slide-1.jpg",
           "webp": "",
-          "alt": "Office waiting area",
+          "alt": "Waiting area with comfortable seating",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -918,9 +1137,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://gillbraces.com/images/slides/slide-2.jpg",
+          "src": "https://www.gillbraces.com/images/slides/slide-2.jpg",
           "webp": "",
-          "alt": "Treatment room with modern equipment",
+          "alt": "Treatment room with modern orthodontic chair",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -930,9 +1149,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://gillbraces.com/images/slides/slide-3.jpg",
+          "src": "https://www.gillbraces.com/images/slides/slide-3.jpg",
           "webp": "",
-          "alt": "Patient consultation area",
+          "alt": "Consultation area with digital imaging display",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -961,14 +1180,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "We take pride in supporting local schools and education efforts. Dr. Gill is active in his children’s schools and participates regularly in church and community activities, reflecting our commitment to serving the families in Fargo and the surrounding area."
+          "text": "We love giving back to our community—whether at parades, festivals, school presentations or local sports events. Look for our booth throughout the year and be sure to stop by and say hi!"
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
-        "alt": "Graphic representing community support",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.webp",
+        "alt": "Community outreach and local event participation",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1034,8 +1253,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.webp",
         "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
@@ -1044,9 +1263,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1055,15 +1272,15 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Gill Orthodontics",
-        "page_description": "Learn about Dr. Jared Gill and the team at Gill Orthodontics. We provide family-centered, affordable orthodontic care with braces and clear aligners in Fargo.",
-        "page_keywords": "Gill Orthodontics, Dr. Jared Gill, Orthodontist Fargo, Braces, Clear Aligners",
+        "page_title": "About Us | Gill Orthodontics & Hentscher-Johnson Orthodontics",
+        "page_description": "Learn about Gill Orthodontics and Hentscher-Johnson Orthodontics: our patient-first approach, experienced doctors, community focus, and modern technology.",
+        "page_keywords": "Orthodontist, Orthodontics, Gill Orthodontics, Hentscher-Johnson Orthodontics, Invisalign, Braces, Office Tour, Meet the Team",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Gill Orthodontics",
-            "description": "Learn about Dr. Jared Gill and the team at Gill Orthodontics. We provide family-centered, affordable orthodontic care with braces and clear aligners in Fargo.",
-            "image": "https://styles.prosites.com/litesite/2305/images/ban/banner1.jpg"
+            "title": "About Us | Gill Orthodontics & Hentscher-Johnson Orthodontics",
+            "description": "Learn about our patient-first approach, experienced doctors, community involvement, and advanced orthodontic technology.",
+            "image": ""
           }
         }
       }
@@ -1084,14 +1301,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "phone",
-        "color": "black"
+        "icon": "pencil",
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.webp",
-        "alt": "Gill Orthodontics welcome banner",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
+        "alt": "Smiling family welcomed at Lakeshore Orthodontics front desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1099,7 +1316,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "New Patients Hero"
+        }
       },
       "video": {
         "src": "",
@@ -1110,24 +1329,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "First Visit",
+      "title": "What to Expect — First Visit",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "At Gill Orthodontics, we're committed to making your orthodontic experience positive and affordable for the whole family. Your first visit begins with a friendly welcome, a conversation about your concerns and goals, and a thorough exam to assess tooth and jaw alignment."
+          "text": "At Hentscher-Johnson Orthodontics, your first visit is a warm, informative appointment where we get to know you and your smile goals. Expect a friendly welcome, a complete exam, and a clear discussion of treatment options so you leave with a straightforward plan and next steps."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "During the appointment we may take diagnostic X-rays, review your medical history, and explain recommended treatment options such as braces or clear aligners. Dr. Gill and our team will answer your questions and help you understand the next steps in a clear, practical plan."
+          "text": "We’ll review your medical history, answer questions about financing and insurance, and explain what to expect during treatment. Our team is focused on comfort and clarity, and we’ll make sure you feel like part of the HJO family from day one."
         }
       ],
       "accordion": [],
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211022837_Portrait_Of_Smiling_Dentist_And_Teenage_Girl_In_Cl.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211022837_Portrait_Of_Smiling_Dentist_And_Teenage_Girl_In_Cl.webp",
-        "alt": "Dr. Gill smiling with patient",
+        "alt": "Father with daughter at reception of dentist's surgery",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1135,7 +1354,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1164,13 +1385,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Payment & Insurance",
+      "title": "Financing & Insurance Options",
       "paragraphs": [
         {
-          "text": "We accept most major insurance plans and will file your claims electronically to make billing simpler for you."
+          "text": "We accept most major insurance plans and will file claims electronically to make coverage simple and convenient."
         },
         {
-          "text": "Flexible financing options are available. Call us at (701) 232-1500 or request an appointment online at https://www.gillbraces.com/appointment-request/ to discuss payment plans."
+          "text": "Flexible payment plans and no-interest financing options are available. Our treatment coordinator will work with you to find an option that fits your budget."
         }
       ],
       "component_options": {
@@ -1188,24 +1409,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "New Patient Forms",
+      "title": "Health History Forms",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "To help us provide safe, efficient care, please complete your health history and new patient information before your visit when possible. Completing forms ahead of time shortens check-in and lets us focus on your exam."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "If you use our quick contact form, the site will prompt you when required fields are missing. Common validation messages include: \"Please enter a name!\", \"Invalid Email Address\", and \"Email or Phone Required\"."
+          "text": "Before your appointment, please complete our health history forms so we can provide safe, personalized care. Completing forms ahead of time helps your visit run smoothly and lets us focus on your exam."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
-        "alt": "Patient smiling in orthodontic office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+        "alt": "Patient filling out orthodontic health history forms online",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1213,29 +1429,15 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
       },
       "video": {
         "type": "embedded",
         "src": ""
       },
-      "buttons": [
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Request Appointment",
-            "aria_label": "request appointment",
-            "href": "https://www.gillbraces.com/appointment-request/",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        }
-      ],
+      "buttons": [],
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -1243,7 +1445,7 @@
         "hide_component": false
       },
       "reverse": true,
-      "has_buttons": true,
+      "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
@@ -1287,8 +1489,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
         "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
@@ -1297,9 +1499,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1308,15 +1508,15 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | Gill Orthodontics",
-        "page_description": "Start your orthodontic care at Gill Orthodontics in Fargo. Learn what to expect, complete new patient forms, and schedule your consultation today.",
-        "page_keywords": "Gill Orthodontics, orthodontics, new patient, first visit, Fargo, appointment",
+        "page_title": "Get Started | Hentscher-Johnson Orthodontics",
+        "page_description": "Request a complimentary consultation at Hentscher-Johnson Orthodontics. Learn what to expect, complete forms, and book your free consult today.",
+        "page_keywords": "Hentscher-Johnson Orthodontics, complimentary consultation, new patient, virtual consult, financing",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | Gill Orthodontics",
-            "description": "Start your orthodontic care at Gill Orthodontics in Fargo. Learn what to expect, complete new patient forms, and schedule your consultation today.",
-            "image": "https://styles.prosites.com/litesite/2305/images/ban/banner3.jpg"
+            "title": "Get Started | Hentscher-Johnson Orthodontics",
+            "description": "Request a complimentary consultation at Hentscher-Johnson Orthodontics. Learn what to expect, complete forms, and book your free consult today.",
+            "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
           }
         }
       }
@@ -1344,7 +1544,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Orthodontic treatment banner with smiling patients",
+        "alt": "Adult and child smiling after orthodontic treatment at Hentscher-Johnson Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1365,19 +1565,68 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Braces (fixed appliances)",
+      "title": "Orthodontic Braces Overview",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Fixed braces use brackets bonded to each tooth with an archwire to guide teeth into alignment. They are a reliable option for many bite and spacing problems and can be metal or tooth-colored."
+          "text": "Orthodontic braces correct bite and tooth alignment for children, teens and adults. Beyond a straighter smile, treatment can improve chewing, speech and long-term dental health while preventing excessive wear and jaw strain."
         }
       ],
-      "accordion": [],
+      "accordion": [
+        {
+          "header": "Who benefits",
+          "paragraphs": [
+            {
+              "text": "Anyone with crowding, spacing, overbite, underbite or crossbite may benefit. We evaluate each patient with X-rays and study models to recommend the best approach."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
+            "alt": "Teen patient after receiving orthodontic care",
+            "image_selection_hints": {
+              "context_category": "Teen"
+            }
+          }
+        },
+        {
+          "header": "Treatment benefits",
+          "paragraphs": [
+            {
+              "text": "Straight teeth are easier to clean and less likely to develop decay or gum disease. Orthodontics can also relieve jaw pain and improve function."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
+            "alt": "Adult patient smiling after orthodontic treatment",
+            "image_selection_hints": {
+              "context_category": "Adult"
+            }
+          }
+        },
+        {
+          "header": "What to expect",
+          "paragraphs": [
+            {
+              "text": "Your journey begins with a planning phase: exam, photographs, impressions or digital scans and X-rays. From there we design a personalized plan and discuss timelines and options."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
+            "alt": "Hentscher-Johnson Orthodontics team in the office",
+            "image_selection_hints": {
+              "context_category": "What sets us apart"
+            }
+          }
+        }
+      ],
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-        "alt": "Two stylish smiling teens taking selfie with braces",
+        "alt": "Smiling patient after orthodontic treatment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1386,7 +1635,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "All Ages"
         }
       },
       "video": {
@@ -1395,14 +1644,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "braces",
+        "hash": "orthodontic-braces-overview",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
       "has_buttons": false,
-      "has_accordion": false,
+      "has_accordion": true,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1416,19 +1665,46 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Damon Braces system",
-      "paragraphs": [
+      "title": "Traditional Metal Braces",
+      "paragraphs": [],
+      "accordion": [
         {
-          "has_heading": false,
-          "heading": "",
-          "text": "The Damon system uses self-ligating brackets designed to reduce friction and may allow for more efficient tooth movement and fewer adjustments for some patients."
+          "header": "How they work",
+          "paragraphs": [
+            {
+              "text": "Metal braces use brackets and archwires to apply gentle, continuous pressure that moves teeth into position. Adjustments are scheduled regularly to monitor progress."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/59969131_Young_black_woman_smiling_with_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/59969131_Young_black_woman_smiling_with_braces.webp",
+            "alt": "Traditional metal braces close-up",
+            "image_selection_hints": {
+              "context_category": "General"
+            }
+          }
+        },
+        {
+          "header": "Benefits",
+          "paragraphs": [
+            {
+              "text": "Durable and effective for complex cases, metal braces often achieve results faster and are cost-effective compared with other fixed options."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
+            "alt": "Traditional braces icon",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          }
         }
       ],
-      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
-        "alt": "Close-up of orthodontic brackets and archwire",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
+        "alt": "Teen smiling with braces",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1437,7 +1713,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "Teen"
         }
       },
       "video": {
@@ -1446,18 +1722,18 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "damon-braces",
+        "hash": "traditional-metal-braces",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": true,
       "has_buttons": false,
-      "has_accordion": false,
+      "has_accordion": true,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
-      "has_background": false,
+      "has_background": true,
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
@@ -1467,19 +1743,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Ceramic (tooth-colored) braces",
+      "title": "Ceramic (Tooth-Colored) Braces",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Ceramic brackets match tooth color for a less noticeable appearance while providing the same orthodontic mechanics as traditional braces, though they may require extra care to avoid staining."
+          "text": "Ceramic braces offer a discreet option with tooth-colored brackets that blend in. They work much like traditional braces while providing improved aesthetics during treatment."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "These brackets can be slightly more fragile and may stain if not cared for, so we provide clear guidance on cleaning and dietary choices to protect their appearance."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-        "alt": "Smiling patient with tooth-colored orthodontic appliance",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/141451082_Closeup_portrait_of_beautiful_woman_smiling_with_a.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/141451082_Closeup_portrait_of_beautiful_woman_smiling_with_a.webp",
+        "alt": "Clear aligner and tooth-colored braces icon",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1518,19 +1799,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Lingual braces (hidden)",
+      "title": "Clear Aligners (Invisalign)",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Lingual braces are placed on the tongue side of the teeth so they are hidden from view. They offer a discreet option though they can require a period of adjustment for speech and tongue comfort."
+          "text": "Invisalign<sup>®</sup> and other clear aligner systems use a series of removable, transparent trays to move teeth discreetly. They are ideal for many adult and teen cases where compliance is reliable."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Because aligners are removable, you can maintain normal brushing, flossing and eating. Treatment starts with a digital scan and 3D planning so you can see projected results before treatment begins."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1094518898_Hands_of_a_woman_holding_invisible_retainers.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1094518898_Hands_of_a_woman_holding_invisible_retainers.webp",
-        "alt": "Orthodontic treatment patient smiling during appointment",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.webp",
+        "alt": "Close-up of clear aligners and patient smile",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1539,7 +1825,163 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "Adult"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "clear-aligners-invisalign",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Angel Aligners",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Angel Aligners are a digitally planned, removable tray system that combines precise 3D scanning with predictable staging to move teeth comfortably and discreetly."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "At our practice we evaluate candidacy carefully and discuss whether in-house printed aligners or an external aligner system is the best fit for your goals and lifestyle."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/69365931_Translucent_upper_and_lower_essix_retainers_on_a_g.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/69365931_Translucent_upper_and_lower_essix_retainers_on_a_g.webp",
+        "alt": "Orthodontic team discussing clear aligner treatment",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "angel-aligners",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Lingual Braces",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Lingual braces are placed on the tongue side of the teeth, making them invisible from the front. They offer a concealment option for patients who need fixed appliances but want a discreet look."
+        }
+      ],
+      "accordion": [
+        {
+          "header": "Pros and cons",
+          "paragraphs": [
+            {
+              "text": "Lingual braces provide excellent aesthetics but can be more costly and may require a short adjustment period for speech and comfort."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241278166_close_up_young_asian_woman_smiling_with_hand_holdi.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241278166_close_up_young_asian_woman_smiling_with_hand_holdi.webp",
+            "alt": "Lingual braces illustration",
+            "image_selection_hints": {
+              "context_category": "General"
+            }
+          }
+        },
+        {
+          "header": "Who is a candidate",
+          "paragraphs": [
+            {
+              "text": "Not all cases are suited to lingual braces. We review bite complexity, oral anatomy and lifestyle to determine suitability."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
+            "alt": "Dr. Taylor Little, orthodontist",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        },
+        {
+          "header": "Care tips",
+          "paragraphs": [
+            {
+              "text": "Oral hygiene and routine check-ups are essential. We provide clear instructions to keep brackets and appliances clean throughout treatment."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
+            "alt": "Dr. Jodi headshot",
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
+          }
+        }
+      ],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/188272287_Beautiful_smile_and_white_teeth_of_a_young_woman.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/188272287_Beautiful_smile_and_white_teeth_of_a_young_woman.webp",
+        "alt": "Orthodontist headshot and treatment preview",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
         }
       },
       "video": {
@@ -1555,7 +1997,7 @@
       },
       "reverse": true,
       "has_buttons": false,
-      "has_accordion": false,
+      "has_accordion": true,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1569,19 +2011,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Clear aligners (Invisalign<sup>®</sup>)",
+      "title": "Retention & Retainers",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Clear, removable aligners use 3D imaging and planned stages to move teeth with minimal visibility. Invisalign<sup>®</sup> lets you eat and brush normally while undergoing treatment when you are a suitable candidate."
+          "text": "Retention is a critical final phase. Custom retainers help stabilize tooth position while bone and soft tissues remodel, protecting the time and investment you made during active treatment."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "We offer removable and fixed retainer options and give clear guidance on how long and how often to wear them to reduce the risk of relapse."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-        "alt": "Close-up of clear aligner being placed on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
+        "alt": "Orthodontic retainer being held by a patient",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1590,7 +2037,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "Retainers"
         }
       },
       "video": {
@@ -1599,7 +2046,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "invisalign",
+        "hash": "retention-retainers",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1620,19 +2067,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers (Hawley & VFR)",
+      "title": "Airway Assessment & Monitoring",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "After active treatment, retainers help maintain tooth position while bone and tissues stabilize. We offer removable Hawley retainers and vacuum-formed (VFR) options with care instructions for longevity."
+          "text": "We take airway health seriously, particularly for growing patients. Early assessment and monitoring can identify risks like mouth breathing or sleep-disordered breathing and guide timely, conservative intervention."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/354287528_3d_render_of_invisalign_removable_and_invisible_re.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/354287528_3d_render_of_invisalign_removable_and_invisible_re.webp",
-        "alt": "Young woman smiling and holding orthodontic retainer",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/323463012_Closeup_Asian_face_Little_children_boy_sick_he_usi.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/323463012_Closeup_Asian_face_Little_children_boy_sick_he_usi.webp",
+        "alt": "Airway assessment icon showing facial profile and airflow",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1641,7 +2088,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "Pediatrics"
         }
       },
       "video": {
@@ -1650,109 +2097,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "retainers",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Palatal expander (space creation)",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Palatal expanders create additional room in the upper arch to address crowding and support proper tooth eruption. They can be removable or fixed depending on the case."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
-        "alt": "Young patient receiving early orthodontic intervention",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "palatal-expander",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Headgear & facemasks (removable)",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Headgear and facemasks are removable appliances that work with braces to correct developmental issues such as overbites or underbites, often used in growing patients to guide jaw development."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
-        "alt": "Teen patient smiling during orthodontic treatment",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "headgear-facemasks",
+        "hash": "airway-assessment-monitoring",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1802,8 +2147,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/384405861_Online_lifestyle_concept_Cheerful_good_looking_wom.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/384405861_Online_lifestyle_concept_Cheerful_good_looking_wom.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/118488359_Happy_parents_with_their_children.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/118488359_Happy_parents_with_their_children.webp",
         "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
@@ -1812,9 +2157,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1823,15 +2166,15 @@
     },
     {
       "seo": {
-        "page_title": "Treatments | Gill Orthodontics",
-        "page_description": "Explore orthodontic treatments at Gill Orthodontics: braces, Damon braces, Invisalign®, retainers, expanders and surgical care for patients of all ages.",
-        "page_keywords": "orthodontics, braces, Invisalign, Damon braces, retainers, palatal expander, headgear, orthodontic treatments",
+        "page_title": "Treatments | Hentscher-Johnson Orthodontics",
+        "page_description": "Explore orthodontic treatments at Hentscher-Johnson Orthodontics, from braces and clear aligners to airway assessment and retainers.",
+        "page_keywords": "orthodontics, braces, clear aligners, Invisalign, retainers, airway assessment, Columbia IL, Waterloo IL",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Treatments | Gill Orthodontics",
-            "description": "Explore orthodontic treatments at Gill Orthodontics: braces, Damon braces, Invisalign®, retainers and more for every age.",
-            "image": "https://styles.prosites.com/litesite/2305/images/ban/banner2.jpg"
+            "title": "Treatments | Hentscher-Johnson Orthodontics",
+            "description": "Explore orthodontic treatments at Hentscher-Johnson Orthodontics, from braces and clear aligners to airway assessment and retainers.",
+            "image": "https://hentscherjohnsonortho.com/wp-content/uploads/2025/10/patient-photo-adult-early-orthodontics.jpg"
           }
         }
       }
@@ -1852,14 +2195,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
-        "color": "primary"
+        "icon": "phone",
+        "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/403234519_work_using_texting_cell_phone_typing_computerchatt.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/403234519_work_using_texting_cell_phone_typing_computerchatt.webp",
-        "alt": "Gill Orthodontics contact banner",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "alt": "Gill Orthodontics reception area with friendly staff behind the front desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1907,14 +2250,14 @@
     {
       "seo": {
         "page_title": "Contact Gill Orthodontics | Fargo Orthodontist",
-        "page_description": "Contact Gill Orthodontics in Fargo, ND. Call (701) 232-1500 or request an appointment online. Office hours, directions, and a quick contact form available.",
-        "page_keywords": "Gill Orthodontics contact, Fargo orthodontist, orthodontic appointment, contact Gill Orthodontics",
+        "page_description": "Contact Gill Orthodontics in Fargo, ND. Call (701) 232-1500 or request an appointment online. Office hours Mon–Thu 8am–5pm, Fri 8am–12pm.",
+        "page_keywords": "Gill Orthodontics contact, Fargo orthodontist, orthodontist Fargo ND, orthodontic appointment, Gill braces contact",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Contact Gill Orthodontics | Fargo Orthodontist",
-            "description": "Contact Gill Orthodontics in Fargo, ND. Call (701) 232-1500 or request an appointment online. Office hours, directions, and a quick contact form available.",
-            "image": "https://styles.prosites.com/litesite/2305/images/ban/banner3.jpg"
+            "description": "Reach Gill Orthodontics in Fargo for appointments and general questions. Call (701) 232-1500 or request online.",
+            "image": "https://styles.prosites.com/litesite/2305/images/ban/banner4.jpg"
           }
         }
       }
@@ -1935,13 +2278,13 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "phone",
+        "icon": "pencil",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
         "alt": "Patient smiling with orthodontic braces in our Emeryville office",
         "aria_hidden": false,
         "bgColor": "",
@@ -1963,27 +2306,27 @@
     },
     {
       "acf_fc_layout": "accordion",
-      "title": "Retainers, care & FAQs",
+      "title": "FAQs — Oral Care & Treatment",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find practical guidance on retainers, cleaning, and what to expect after orthodontic treatment from Gill Orthodontics."
+          "text": "Below are some of the most frequently asked questions patients have about orthodontics. If you have any other questions, or would like to schedule an appointment, we would love to hear from you.\n\nClick on a question below to see the answer."
         }
       ],
       "accordion": [
         {
-          "header": "Wear the retainer as directed",
+          "header": "How often should I brush and floss?",
           "paragraphs": [
             {
-              "text": "This phase of treatment is critical. The hard work has been done, the braces are off and now it is tempting not to wear the retainer as often as the orthodontist recommends. Retainers are needed to give the muscles, tissues and bones time to stabilize the teeth in their new alignment. Failure to wear the retainer as directed can have regrettable consequences, such as teeth returning to their original position, added expense and lost time."
+              "text": "Brushing and flossing control the plaque and bacteria that cause decay and gum disease. Plaque is a film of food debris, bacteria, and saliva that sticks to teeth and gums; if not removed it hardens into calculus. Plaque and calculus can destroy gum and bone over time.\n\nToothbrushing: Brush at least twice a day, especially before bed, with an ADA-approved soft-bristle brush and fluoride toothpaste. Hold the brush at a 45 degree angle to the gums and use small, gentle circular motions. Clean outer, inner, and biting surfaces, use the brush tip for inside front teeth, and brush your tongue to reduce bacteria and freshen breath. Electric toothbrushes are recommended; let the brush do the work, moving it across several teeth at a time.\n\nFlossing: Floss daily to clean between teeth and under the gumline. Use 12–16 inches (30–40 cm) of floss, wrap it around your fingers, and guide it gently between teeth. Curve the floss into a C shape around each tooth and move it up and down to clean the sides and under the gumline. Floss holders are helpful for those who find traditional floss difficult.\n\nRinsing: Rinse with water after brushing and after meals when brushing isn’t possible. If using an over-the-counter rinse, ask your dentist or hygienist if it’s appropriate for you."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/231009512_Close-up_teeth_braces_and_tooth_brush_as_an_exampl.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/231009512_Close-up_teeth_braces_and_tooth_brush_as_an_exampl.webp",
             "alt": "Happy Family Portrait",
             "aria_hidden": false,
             "bgColor": "",
@@ -1992,25 +2335,27 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "General"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "Don't eat while wearing a retainer",
+          "header": "At what age should my child be checked by an orthodontist?",
           "paragraphs": [
             {
-              "text": "It can be difficult and awkward to eat while wearing a removable retainer and it can also damage the device. Food can get trapped around a Hawley retainer wire or underneath the palate, causing bad breath. When worn on the upper and lower arches simultaneously, VFR retainers do not allow the teeth to meet. This means that chewing is almost impossible."
+              "text": "The American Association of Orthodontists recommends an orthodontic evaluation no later than age 7. Early evaluation lets us monitor growth and development and plan treatment when it will be most effective."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/197310029.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/197310029.webp",
             "alt": "Couple Enjoying Time Together",
             "aria_hidden": false,
             "bgColor": "",
@@ -2019,25 +2364,27 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Kid"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "Clean the retainer properly",
+          "header": "How often should I have a dental exam and cleaning?",
           "paragraphs": [
             {
-              "text": "Removable retainers can become breeding grounds for calculus and bacteria. It is essential to clean the inside and outside thoroughly as often as possible. Hawley retainers can be cleaned with a toothbrush. Because harsh bristles can damage the PVC surface of a VFR, denture cleaner or a specialized retainer cleaner is recommended for this type of device."
+              "text": "Have your teeth checked and cleaned at least twice a year, unless your dentist or hygienist recommends more frequent visits based on your individual needs."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/70490019_Portrait_of_Beautiful_smiling_girl_covering_her_re.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/70490019_Portrait_of_Beautiful_smiling_girl_covering_her_re.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1160141714_A_toothbrush_placed_against_a_large_tooth_on_a_bri.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1160141714_A_toothbrush_placed_against_a_large_tooth_on_a_bri.webp",
             "alt": "Collaborative Team Spirit Moment",
             "aria_hidden": false,
             "bgColor": "",
@@ -2046,25 +2393,56 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Cleaning"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "Questions or concerns?",
+          "header": "How long will I be in braces?",
           "paragraphs": [
             {
-              "text": "If you have any questions or concerns about retainers or post-treatment care, please contact our office at (701) 232-1500 or request an appointment online at https://www.gillbraces.com/appointment-request/."
+              "text": "Treatment time varies with the severity of the case, patient cooperation, and growth. Some cases finish in less than a year, while more complex cases take longer. On average treatment can take two to three years; we’ll give a personalized estimate at your initial appointment and aim to reduce visits while maintaining excellent results."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/86648237_Smiling_girl_Holding_Retainer_for_Teeth_and_Tooth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/86648237_Smiling_girl_Holding_Retainer_for_Teeth_and_Tooth.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/115662795.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/115662795.webp",
+            "alt": "Smiling Man Working at Desk",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "What do I need to consider when using a retainer?",
+          "paragraphs": [
+            {
+              "text": "Proper use and care of your retainer preserves your new alignment. Don’t lose the appliance: keep removable retainers in their case while eating, drinking, and brushing. Don’t drink or eat while wearing a retainer, as trapped liquids and food increase decay risk and can damage the device. Clean retainers thoroughly: Hawley retainers can be brushed with a toothbrush, and VFR (PVC) retainers should be cleaned with denture cleaner or a specialized retainer cleaner. Wear the retainer as directed—retention lets bone, tissue, and muscles stabilize teeth after braces; failure to wear it can allow movement back to the original position."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
             "alt": "Mother and Daughter Smiling Together",
             "aria_hidden": false,
             "bgColor": "",
@@ -2073,10 +2451,12 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Retention"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         }
@@ -2119,8 +2499,8 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/376753583_Smiling_asian_female_business_women_employer_emplo.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/376753583_Smiling_asian_female_business_women_employer_emplo.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/22144613_Hispanic_Family.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/22144613_Hispanic_Family.webp",
         "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
@@ -2129,9 +2509,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -2141,13 +2519,13 @@
     {
       "seo": {
         "page_title": "FAQ | Gill Orthodontics",
-        "page_description": "Find answers to common questions about retainers, retainer care, and post-treatment instructions at Gill Orthodontics.",
-        "page_keywords": "retainers, retainer care, orthodontics, FAQ, Gill Orthodontics",
+        "page_description": "Find answers to common orthodontic questions about brushing, retainers, treatment length, and exams at Gill Orthodontics in Fargo, ND.",
+        "page_keywords": "Gill Orthodontics, orthodontics, FAQ, braces, retainers, Fargo ND",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "FAQ | Gill Orthodontics",
-            "description": "Find answers to common questions about retainers, retainer care, and post-treatment instructions at Gill Orthodontics.",
+            "description": "Find answers to common orthodontic questions about brushing, retainers, treatment length, and exams at Gill Orthodontics in Fargo, ND.",
             "image": ""
           }
         }
