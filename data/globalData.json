@@ -10,11 +10,11 @@
   },
   "location": [
     {
-      "title": "",
+      "title": "Fargo",
       "address": {
         "street": "4401 23rd Ave S",
         "suite": "",
-        "city_state": "Fargo, ND 58104",
+        "city_state": "Fargo, North Dakota 58104",
         "coordinates": {
           "longitude": "-96.858671",
           "latitude": "46.845309"
@@ -27,36 +27,36 @@
       "email": "gillbraces@gmail.com",
       "hours": [
         {
-          "day": "Mon",
+          "day": "Monday",
           "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Tue",
+          "day": "Tuesday",
           "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Wed",
+          "day": "Wednesday",
           "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Thu",
+          "day": "Thursday",
           "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Fri",
-          "time": "8:00 am - 12:00 pm"
+          "day": "Friday",
+          "time": "8:00 am - 12:00 pm (Admin Hours)"
         },
         {
-          "day": "Sat",
+          "day": "Saturday",
           "time": "Closed"
         },
         {
-          "day": "Sun",
+          "day": "Sunday",
           "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=Gill+Orthodontics+4401+23rd+Ave+S+Fargo+ND+58104",
+        "href": "https://www.google.com/maps/search/?api=1&query=4401+23rd+Ave+S+Fargo+ND+58104",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -79,9 +79,9 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v2",
+        "icon": "tooth-two-v1",
         "text": "4401 23rd Ave S, Fargo, ND 58104",
-        "href": "https://www.google.com/maps/search/?api=1&query=Gill+Orthodontics+4401+23rd+Ave+S+Fargo+ND+58104",
+        "href": "https://www.google.com/maps/search/?api=1&query=4401+23rd+Ave+S+Fargo+ND+58104",
         "label": "View 4401 23rd Ave S, Fargo, ND 58104 on Google Maps",
         "new_window": true
       },
@@ -94,13 +94,13 @@
       }
     ],
     "announcement": {
-      "icon": "tooth-check",
-      "label": "COVID-19 & Safety",
-      "text": "We follow ADA, OSHA and CDC infection-control guidelines and take extra precautions to keep patients and families safe during every visit.",
-      "mobile_text": "COVID-19 & Safety",
+      "icon": "tooth-two-v2",
+      "label": "Open COVID 19 update modal.",
+      "text": "We keep our office safe and welcoming. Click to learn about our safety measures and what to expect at your visit.",
+      "mobile_text": "COVID-19 Update",
       "modal": {
-        "title": "COVID-19 & Safety at Gill Orthodontics",
-        "text": "<p>Gill Orthodontics follows ADA, OSHA, and CDC infection‑control guidance. We screen patients and staff, maintain enhanced cleaning protocols, and use personal protective equipment for clinical care. If you have questions about safety procedures or need to reschedule due to illness, please call the office at (701) 232‑1500.</p>"
+        "title": "COVID-19 Update",
+        "text": "Gill Orthodontics follows current local and national health guidance to keep patients and staff safe. If you have questions about office procedures or need to reschedule because of illness, please call (701) 232-1500."
       }
     }
   },
@@ -117,7 +117,7 @@
           "path": "/contact",
           "hash": "#form",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -141,7 +141,7 @@
     "title": "Welcome to Gill Orthodontics",
     "text": "",
     "image": {
-      "src": "https://www.gillbraces.com/images/slides/slide-1.jpg",
+      "src": "https://gillbraces.com/images/slides/slide-1.jpg",
       "webp": "",
       "alt": "Gill Orthodontics office",
       "aria_hidden": false,
@@ -152,7 +152,7 @@
       "forceAlt": "",
       "loading_mask": "",
       "image_selection_hints": {
-        "context_category": "Contact Hero"
+        "context_category": "Home Hero"
       }
     }
   }
