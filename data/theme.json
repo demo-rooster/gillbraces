@@ -141,7 +141,7 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Roboto', helvetica, arial, sans-serif"
+        "font": "'Arial', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
