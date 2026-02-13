@@ -1,7 +1,7 @@
 {
   "enable_development_mode": false,
   "company_name": "Gill Orthodontics",
-  "domain": "gillbraces.com",
+  "domain": "https://www.gillbraces.com",
   "email": "gillbraces@gmail.com",
   "phone": {
     "number": "(701) 232-1500",
@@ -10,11 +10,11 @@
   },
   "location": [
     {
-      "title": "Fargo",
+      "title": "Fargo, ND — Main Office",
       "address": {
         "street": "4401 23rd Ave S",
         "suite": "",
-        "city_state": "Fargo, North Dakota 58104",
+        "city_state": "Fargo, ND 58104",
         "coordinates": {
           "longitude": "-96.858671",
           "latitude": "46.845309"
@@ -28,23 +28,23 @@
       "hours": [
         {
           "day": "Monday",
-          "time": "8:00 am - 5:00 pm"
+          "time": "8:00 am \u000211:00 am"
         },
         {
           "day": "Tuesday",
-          "time": "8:00 am - 5:00 pm"
+          "time": "8:00 am \u00021:00 pm"
         },
         {
           "day": "Wednesday",
-          "time": "8:00 am - 5:00 pm"
+          "time": "8:00 am \u00021:00 pm"
         },
         {
           "day": "Thursday",
-          "time": "8:00 am - 5:00 pm"
+          "time": "8:00 am \u00021:00 pm"
         },
         {
           "day": "Friday",
-          "time": "8:00 am - 12:00 pm (Admin Hours)"
+          "time": "8:00 am \u000212:00 pm (Admin Hours)"
         },
         {
           "day": "Saturday",
@@ -56,7 +56,7 @@
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=4401+23rd+Ave+S+Fargo+ND+58104",
+        "href": "https://maps.app.goo.gl/WJsfqKk3st5CBJ5R6",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -79,10 +79,10 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
+        "icon": "tooth-two-v2",
         "text": "4401 23rd Ave S, Fargo, ND 58104",
-        "href": "https://www.google.com/maps/search/?api=1&query=4401+23rd+Ave+S+Fargo+ND+58104",
-        "label": "View 4401 23rd Ave S, Fargo, ND 58104 on Google Maps",
+        "href": "https://maps.app.goo.gl/WJsfqKk3st5CBJ5R6",
+        "label": "View Gill Orthodontics on Google Maps",
         "new_window": true
       },
       {
@@ -95,12 +95,12 @@
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "Open COVID 19 update modal.",
-      "text": "We keep our office safe and welcoming. Click to learn about our safety measures and what to expect at your visit.",
-      "mobile_text": "COVID-19 Update",
+      "label": "Schedule your consult",
+      "text": "Ready to start your smile journey? Request a consultation online or call us now.",
+      "mobile_text": "Request a consultation",
       "modal": {
-        "title": "COVID-19 Update",
-        "text": "Gill Orthodontics follows current local and national health guidance to keep patients and staff safe. If you have questions about office procedures or need to reschedule because of illness, please call (701) 232-1500."
+        "title": "Schedule a Consultation",
+        "text": "You can request an appointment online using our easy form, or call (701) 232-1500 to speak with our team. We look forward to helping you smile with confidence."
       }
     }
   },
@@ -109,15 +109,15 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "anchor",
           "style": "primary",
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
-          "href": "",
-          "path": "/contact",
-          "hash": "#form",
-          "external": false,
-          "include_icon": false,
+          "href": "https://www.gillbraces.com/AppointmentRequest.aspx",
+          "path": "",
+          "hash": "",
+          "external": true,
+          "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -133,17 +133,26 @@
     "href": ""
   },
   "footer": {
-    "social_media": [],
+    "social_media": [
+      {
+        "href": "https://www.facebook.com/GillOrthodontics/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.yelp.com/biz/gill-orthodontics-fargo-2",
+        "icon": "yelp"
+      }
+    ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
     "title": "Welcome to Gill Orthodontics",
-    "text": "",
+    "text": "We make orthodontics straightforward and friendly. Schedule a complimentary consultation to learn how we can help you or your child achieve a healthy, confident smile.",
     "image": {
-      "src": "https://gillbraces.com/images/slides/slide-1.jpg",
+      "src": "",
       "webp": "",
-      "alt": "Gill Orthodontics office",
+      "alt": "",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -152,7 +161,7 @@
       "forceAlt": "",
       "loading_mask": "",
       "image_selection_hints": {
-        "context_category": "Home Hero"
+        "context_category": "Contact Hero"
       }
     }
   }
